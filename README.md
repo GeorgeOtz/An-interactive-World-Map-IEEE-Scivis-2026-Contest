@@ -1,5 +1,6 @@
-# 🌍 Global Wind Patterns in the Atmosphere
-### IEEE SciVis 2026 Contest — Interactive Atmospheric Dashboard
+# 🌍 An Interactive Wolrd Map
+##  🏆 "Best Student Award" 🏆 at IEEE Scivis 2026 Contest
+###  Interactive Atmospheric Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
